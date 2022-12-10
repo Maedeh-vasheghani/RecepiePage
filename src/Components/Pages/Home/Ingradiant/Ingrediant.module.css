@@ -1,0 +1,9 @@
+.titleone {
+  padding: 0.5rem 0;
+  font-size: 1.5rem;
+}
+@media screen and (max-width: 960px) {
+  .ingredient_one {
+    margin: 1rem 0;
+  }
+}
